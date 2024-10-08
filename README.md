@@ -16,8 +16,21 @@ Gemini Clone is a React-based front-end application that allows users to interac
 - JavaScript (ES6+)
 - CSS for styling
 
-## Installation
+## Getting Started
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/gemini-clone.git
+   git clone https://github.com/your-username/Gemini-Clone.git
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+
+   The app will be available at `http://localhost:5173/`.
