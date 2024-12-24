@@ -25,6 +25,7 @@ const Sidebar = () => {
           alt=""
           onClick={handleClick}
         />
+
         <div className="new-chat" onClick={() => newChat()}>
           <img src={assets.plus_icon} alt="" />
           {extended ? <p>New Chat</p> : null}
