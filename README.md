@@ -5,7 +5,7 @@
 Gemini Clone is a React-based front-end application that allows users to interact with the Gemini API by submitting prompts. The application sends user-input prompts to the Gemini API and displays the responses directly on the frontend. This project demonstrates my ability to build a user-friendly interface that integrates with an external API.
 
 ## 🌐 Live Website
-Check out the live version here: https://gemini-clone-xi-six.vercel.app/
+Check out the live version here: https://gemini-frontend-ai.netlify.app/
 
 ## Features
 
